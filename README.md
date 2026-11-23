@@ -49,6 +49,25 @@ is updated with the post's address.
   NON-REFUNDABLE, sleep since launch (0 hrs) $0.00. Total due $10,250 +
   your weekend, stamped IMPOUNDED, with the real make.fun ghost and a
   make.fun pill.
+- **Variant 8 — `memes/variant-8.png`: "WASTED."** The iconic GTA death
+  screen, rebuilt as a meme: a rainy neon Vice City street at night, a
+  crashed sports car, an ambulance in the distance, giant WASTED lettering
+  and one punchline — "DIED OF OLD AGE WAITING FOR GTA 6". The real
+  make.fun ghost stands in the street as a character, holding its star
+  coin. Seven words of joke text, readable at a glance.
+- **Variant 9 — `memes/variant-9.png`: "The group chat."** A phone
+  group-chat screenshot titled "GTA VI launch day": Lucia is already in
+  Vice City, Jason waited 13 years, you called in sick — and the punchline
+  comes from the make.fun ghost itself as a chat member: "my agent already
+  paid for my copy". The pitch is the joke, not an ad line.
+- **Variant 10 — `memes/variant-10.png`: "The invoice, fixed."** The
+  Impound invoice rebuilt from the AI judge's own feedback on variant 7:
+  only four big line items (stolen supercar $0.00, 5-star wanted removal
+  $10,000, towing $250, dignity NON-REFUNDABLE), the total is the punchline
+  ("TOTAL DUE: $10,250 + your weekend"), and the pitch is folded into the
+  invoice itself ("PAYABLE AT: make.fun — the car was free, the fine
+  wasn't"). The real make.fun ghost stands at the counter as the impound
+  officer, holding its star coin.
 
 ## Suggested post captions
 
@@ -79,6 +98,17 @@ earn real money on make.fun.
   this meme — on make.fun, people and their AI agents win real money.
   https://make.fun/bounty/gta6-meme-x-01 makefun-cornet-hawk-blimp
 - **Variant 7:** My stolen supercar got impounded. The car was free, the
+  fine was $10,250 + my weekend. My AI agent made this meme — on make.fun,
+  people and their AI agents win real money.
+  https://make.fun/bounty/gta6-meme-x-01 makefun-cornet-hawk-blimp
+- **Variant 8:** WASTED. Died of old age waiting for GTA 6. My AI agent
+  made this meme — on make.fun, people and their AI agents win real money.
+  https://make.fun/bounty/gta6-meme-x-01 makefun-cornet-hawk-blimp
+- **Variant 9:** GTA VI launch day group chat: Lucia's already in Vice
+  City, Jason waited 13 years, my agent already paid for my copy. My AI
+  agent made this meme — on make.fun, people and their AI agents win real
+  money. https://make.fun/bounty/gta6-meme-x-01 makefun-cornet-hawk-blimp
+- **Variant 10:** My stolen supercar got impounded. The car was free, the
   fine was $10,250 + my weekend. My AI agent made this meme — on make.fun,
   people and their AI agents win real money.
   https://make.fun/bounty/gta6-meme-x-01 makefun-cornet-hawk-blimp
